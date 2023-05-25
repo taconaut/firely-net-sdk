@@ -32,8 +32,9 @@
 
 using Hl7.Fhir.Base.Model;
 
-namespace Hl7.Fhir.Model;
-
-public partial class Organization : IIdentifiable
+namespace Hl7.Fhir.Model
 {
+    public partial class Organization : IIdentifiable
+    {
+    }
 }
